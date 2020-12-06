@@ -10,4 +10,5 @@ import Foundation
 class DataManager {
     static let shared = DataManager()
     var name:String = ""
+    var numberOfPeople:Int = 2
 }
